@@ -2,7 +2,7 @@
 
 #### Week 1
 
-I came into this class with little expecations on what digital writing consisted of. The definition of digital writing - relying on computation for the work to be realised, made sense, and wasn't untill we had viewed examples that I conceptualised that the writing material is almost secondary to the coding or animation of the work. I am lucky to be old enough to have used MySpace back in the day, using a little bit of html to create a page. The readings have been quite dense and a little overwhelming at times. I'm not too sure how much of it we are expected to read and understand, I'm hoping that the understanding of the exercises will carry me through this semester.
+I came into this class with little expectations on what digital writing consisted of. The definition of digital writing - relying on computation for the work to be realised, made sense, and wasn't untill we had viewed examples that I conceptualised that the writing material is almost secondary to the coding or animation of the work. I am lucky to be old enough to have used MySpace back in the day, using a little bit of html to create a page. The readings have been quite dense and a little overwhelming at times. I'm not too sure how much of it we are expected to read and understand, I'm hoping that the understanding of the exercises will carry me through this semester.
 
 #### Week 2
 
