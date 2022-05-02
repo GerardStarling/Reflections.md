@@ -14,16 +14,16 @@ I enjoyed the works that took a minimilast approach, the text being the centre p
 This class was a really long stretch mentally. Half the day consisted of class presentations, which gave me some really good Ideas about potential concepts for my work. 
 I enjoyed Lauren's piece of animated concrete poetry, which gave me some good ideas for my static conrcrete works. I think even though the day was a huge slog, it was worth it to see the different points of interest in digital writing for the class. Also some good discussions were generated at the end of each talk, which gave me some further ideas. Finally being able to remix some works (I had a go at a remix of Taroko Gorge at the end of week 2) instilled further confidence that I was grasping the coding, even walking out on my own to attempt to add images which were not guided by Benjamin was fun, even if it didn't end up exactly how I wanted it to. I'm pretty keen to try out bitsy, I have an idea to create an interactive piece/ game on mental health, displaying the tribulations and failures of the health care system. 
 
-## Week 5
+#### Week 5
 
 This weeks class involved the creation of a basic website that used html formatting. I struggled to implement the coding successfully, perhaps due to some minute errors in the coding, or the operating system I was using. 
 
-## Week 6
+#### Week 6
 
 We received feedback on our presentations and worked more on stylising in Twine. I'm hoping that I've learned enough to make a competent twin fiction piece now.
 
-## Week 9 
+#### Week 9 
 
 Today we mainly worked on our Folio and Creative pieces. I feel like i'm quite behind in producing my work, and trying to recall all of the procedures to produce a decent Twine work has been challenging.
 
-## Week 9 
+#### Week 9 
