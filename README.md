@@ -26,3 +26,10 @@ We received feedback on our presentations and worked more on stylising in Twine.
 
 Today we mainly worked on our Folio and Creative pieces. I feel like i'm quite behind in producing my work, and trying to recall all of the procedures to produce a decent Twine work has been challenging.
 
+#### Week 10 Conclusion
+
+The culmination of weeks of exercises learning how to code have lead me to finalise my creative work. I can see now the importance of expermenting with various platforms to create digital work, which leaves traditional literature at a stark contrast. There are few, viable options when it comes to word processors and analog mediums. 
+
+I think Stasis chambers was well executed given the time restraints. Collectively, we didn't really start working on our final projects untill halfway through the semester. With the general consensus being limited with their experience of digital writing, it would of been nice to have a bit more time to familiarise ourselves with our selected platform to produce more stylised works. I do however, understand the time restraints were reasonable and the most effective delivery method, as there was a lot of essential theories and basics to digest first. My aim this semeseter was to tap back in to personal writing and find a way to tell this story in an accessible way. I think Stasis Chambers conveyed what I was struggling to, and the overall experience creating this work makes me beleive I have learned a new and valuable skill, that I will return to using in the future. My biggest challenge this semester unsurprisingly, was creating a work about hidden illness under time restraints, whilst experienceing the same thing.
+
+
