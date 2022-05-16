@@ -26,6 +26,10 @@ We received feedback on our presentations and worked more on stylising in Twine.
 
 Today we mainly worked on our Folio and Creative pieces. I feel like i'm quite behind in producing my work, and trying to recall all of the procedures to produce a decent Twine work has been challenging.
 
+#### Workshopping 
+
+After spending the day creating the bulk of Stasis Chambers, I sent the Netlify link to Lauren for feedback. I have been sharing work with Lauren over the bulk of the degree, her feedback is always invaluable and helps me get to the final edit before submission. I had asked if the stylisation was too simple, Lauren responded that it was effective how it currently was, and provided a line edit on any spelling or grammar that needed to be tidied up. Lauren commented that  I should lead in to the dark humour that was apparent, noting that that it could be polarising if it was all desparity in its tone and delivery. The workshopping with Lauren is the result of the final piece.
+
 #### Week 10 Conclusion
 
 The culmination of weeks of exercises learning how to code have lead me to finalise my creative work. I can see now the importance of expermenting with various platforms to create digital work, which leaves traditional literature at a stark contrast. There are few, viable options when it comes to word processors and analog mediums. 
